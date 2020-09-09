@@ -16,7 +16,10 @@ const NavBar = () => {
             <li class="nav-item active">
               <a class="nav-link" href="/joe" > About Joe <span class="sr-only">(current)</span></a>
             </li>
-            
+            <li class="nav-item active">
+              <a class="nav-link" href="/noon" > About Noon <span class="sr-only">(current)</span></a>
+            </li>
+
           </ul>
         </div>
       </nav>
