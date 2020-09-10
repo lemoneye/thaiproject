@@ -5,6 +5,7 @@ import { BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 import joe from '../src/Components/pages/joe';
 import home from '../src/Components/pages/home';
 import Noon from '../src/Components/pages/Noon';
+import nokyoong from '../src/Components/pages/nokyoong';
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
           <Route exact path="/joe" component={joe} />;
           <Route exact path="/noon" component={Noon} />;
           <Route exact path="/" component={home} />;
+          <Route exact parth="/" component={nokyoong} />;
         </Switch>
       </Router>
 
