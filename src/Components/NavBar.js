@@ -20,7 +20,11 @@ const NavBar = () => {
               <a class="nav-link" href="/noon" > About Noon <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item active">
+<<<<<<< HEAD
               <a class="nav-link" href="/noon" > About nokyoong <span class="sr-only">(current)</span></a>
+=======
+              <a class="nav-link" href="/kate" > About Kate <span class="sr-only">(current)</span></a>
+>>>>>>> e5197d6bb8d8db1d05e4a7cdf5fb3713985c0bd4
             </li>
 
           </ul>
