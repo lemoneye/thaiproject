@@ -25,6 +25,9 @@ const NavBar = () => {
             <li class="nav-item active">
               <a class="nav-link" href="/kate" > About Kate <span class="sr-only">(current)</span></a>
             </li>
+            <li class="nav-item active">
+              <a class="nav-link" href="/ken" > About Ken <span class="sr-only">(current)</span></a>
+            </li>
 
           </ul>
         </div>
